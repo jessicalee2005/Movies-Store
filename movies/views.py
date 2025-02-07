@@ -42,6 +42,7 @@ def edit_review(request, id, review_id):
     review = get_object_or_404(Review, id=review_id)
     if request.user != review.user:
         return redirect('movies.show', id=id)
+
     if request.method == 'GET':
         template_data = {}
         template_data['title'] = 'Edit Review'
