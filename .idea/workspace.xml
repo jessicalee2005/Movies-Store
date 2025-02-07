@@ -4,35 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="09a369c4-d62f-4c40-b759-fce891563ed3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/cart/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cart/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cart/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cart/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cart/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Movies-Store/asgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/Movies-Store/asgi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Movies-Store/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Movies-Store/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Movies-Store/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/Movies-Store/templates/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Movies-Store/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Movies-Store/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Movies-Store/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/Movies-Store/wsgi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/home/templates/home/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/home/templates/home/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/home/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/home/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/home/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/home/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movies/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/movies/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movies/migrations/0002_review.py" beforeDir="false" afterPath="$PROJECT_DIR$/movies/migrations/0002_review.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movies/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/movies/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movies/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/movies/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/users/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/users/admin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/users/migrations/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/users/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/users/templates/users/login.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/users/tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/users/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/users/users.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/users/views.py" beforeDir="false" />
+    <list default="true" id="09a369c4-d62f-4c40-b759-fce891563ed3" name="Changes" comment="cart and orders and admin review management">
+      <change beforePath="$PROJECT_DIR$/home/templates/home/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/home/templates/home/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/movies/templates/movies/edit_review.html" beforeDir="false" afterPath="$PROJECT_DIR$/movies/templates/movies/edit_review.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/movies/templates/movies/show.html" beforeDir="false" afterPath="$PROJECT_DIR$/movies/templates/movies/show.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -252,6 +227,15 @@
       <workItem from="1738865329892" duration="2446000" />
       <workItem from="1738895027145" duration="1659000" />
     </task>
+    <task id="LOCAL-00001" summary="cart and orders and admin review management">
+      <option name="closed" value="true" />
+      <created>1738961537129</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1738961537129</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -261,6 +245,8 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/DjangoProject" />
     </ignored-roots>
+    <MESSAGE value="cart and orders and admin review management" />
+    <option name="LAST_COMMIT_MESSAGE" value="cart and orders and admin review management" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
