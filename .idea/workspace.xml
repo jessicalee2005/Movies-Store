@@ -5,13 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="09a369c4-d62f-4c40-b759-fce891563ed3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/movies/migrations/0002_review.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/movies/templates/movies/edit_review.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/movies/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/movies/migrations/0003_order_user.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/movies/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/movies/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/movies/migrations/0002_review.py" beforeDir="false" afterPath="$PROJECT_DIR$/movies/migrations/0002_review.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/movies/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/movies/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movies/templates/movies/show.html" beforeDir="false" afterPath="$PROJECT_DIR$/movies/templates/movies/show.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/movies/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/movies/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/movies/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/movies/views.py" afterDir="false" />
     </list>
@@ -29,8 +28,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -189,8 +188,8 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Django Server.Movies-Store" />
       <item itemvalue="Python.manage" />
+      <item itemvalue="Django Server.Movies-Store" />
     </list>
     <recent_temporary>
       <list>
@@ -226,7 +225,8 @@
       <workItem from="1738814354621" duration="676000" />
       <workItem from="1738816035803" duration="1306000" />
       <workItem from="1738865329892" duration="2446000" />
-      <workItem from="1738895027145" duration="1659000" />
+      <workItem from="1738895027145" duration="3341000" />
+      <workItem from="1738900139176" duration="943000" />
     </task>
     <servers />
   </component>
@@ -243,17 +243,12 @@
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/movies/views.py</url>
-          <line>31</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/movies/views.py</url>
-          <line>18</line>
+          <line>19</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/movies/views.py</url>
-          <line>13</line>
+          <line>14</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>

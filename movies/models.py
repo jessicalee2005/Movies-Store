@@ -22,3 +22,12 @@ class Review(models.Model):
 
     def __str__(self):
         return str(self.id) + ' - ' + self.movie.name
+
+class Order(models.Model):
+    movie = models.ForeignKey(Movie, on_delete=models.CASCADE, related_name="orders")
+    user = models.ForeignKey(User, on_delete=models.CASCADE, default=1)  # assuming user with ID=1 exists
+    quantity = models.IntegerField()
+    order_date = models.DateTimeField(auto_now_add=True)
+
+    def __str__(self):
+        return f"Order for {self.movie.name} - {self.quantity} items"
