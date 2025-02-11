@@ -4,13 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="09a369c4-d62f-4c40-b759-fce891563ed3" name="Changes" comment="fixes">
-      <change beforePath="$PROJECT_DIR$/Movies-Store/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Movies-Store/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Movies-Store/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/Movies-Store/templates/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Movies-Store/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Movies-Store/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/users/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/users/apps.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/users/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/users/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/users/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/users/views.py" afterDir="false" />
+    <list default="true" id="09a369c4-d62f-4c40-b759-fce891563ed3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -229,7 +224,8 @@
       <workItem from="1738816035803" duration="1306000" />
       <workItem from="1738865329892" duration="2446000" />
       <workItem from="1738895027145" duration="1659000" />
-      <workItem from="1738963917197" duration="703000" />
+      <workItem from="1738963917197" duration="928000" />
+      <workItem from="1739306244887" duration="1041000" />
     </task>
     <task id="LOCAL-00001" summary="cart and orders and admin review management">
       <option name="closed" value="true" />
@@ -247,7 +243,23 @@
       <option name="project" value="LOCAL" />
       <updated>1738963965460</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="users fixes">
+      <option name="closed" value="true" />
+      <created>1738965706961</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1738965706961</updated>
+    </task>
+    <task id="LOCAL-00004" summary="users fixes">
+      <option name="closed" value="true" />
+      <created>1738965717716</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1738965717716</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -259,7 +271,8 @@
     </ignored-roots>
     <MESSAGE value="cart and orders and admin review management" />
     <MESSAGE value="fixes" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixes" />
+    <MESSAGE value="users fixes" />
+    <option name="LAST_COMMIT_MESSAGE" value="users fixes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
