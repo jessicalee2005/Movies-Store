@@ -48,3 +48,30 @@
   width: fit-content;
   max-height: 400px;
 }
+
+@media (max-width: 768px) {  // fixing issue with not being able to decrease screen size from bottom
+  .navbar {
+    padding-bottom: 10px;
+  }
+
+  .container {
+    padding-top: 10px;
+  }
+
+  .bg-index {
+    background-size: cover;
+  }
+
+  .img-card-200, .img-card-400 {
+    max-width: 100%;
+  }
+
+  .ms-footer {
+    padding-top: 20px;
+  }
+
+  .ms-footer p {
+    font-size: 12px;
+  }
+}
+
