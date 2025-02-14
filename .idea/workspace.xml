@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="09a369c4-d62f-4c40-b759-fce891563ed3" name="Changes" comment="" />
+    <list default="true" id="09a369c4-d62f-4c40-b759-fce891563ed3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Movies-Store/static/img/avatar.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Movies-Store/static/img/dark.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Movies-Store/static/img/inception.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Movies-Store.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Movies-Store.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Movies-Store/static/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Movies-Store/static/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home/templates/home/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/home/templates/home/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,7 +73,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/madelinewhite/Desktop/Movies-Store/home/templates/home&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/jessicalee/Documents/GitHub/Movies-Store/home/templates/home&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -83,11 +92,11 @@
       <recent name="$PROJECT_DIR$/home/templates/home" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Movies-Store/static/img" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/Movies-Store/templates" />
       <recent name="$PROJECT_DIR$/Movies-Store/templates/Movies-Store" />
       <recent name="$PROJECT_DIR$/Movies-Store/static" />
-      <recent name="$PROJECT_DIR$/Movies-Store" />
     </key>
   </component>
   <component name="RunManager" selected="Python.manage">
@@ -224,6 +233,7 @@
       <workItem from="1738895027145" duration="1659000" />
       <workItem from="1738963917197" duration="928000" />
       <workItem from="1739306244887" duration="1041000" />
+      <workItem from="1739470871696" duration="2337000" />
     </task>
     <task id="LOCAL-00001" summary="cart and orders and admin review management">
       <option name="closed" value="true" />
@@ -284,6 +294,6 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Movies_Store$manage.coverage" NAME="manage Coverage Results" MODIFIED="1738704444886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Movies_Store$manage.coverage" NAME="manage Coverage Results" MODIFIED="1739470982920" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
