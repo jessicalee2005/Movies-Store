@@ -7,14 +7,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="09a369c4-d62f-4c40-b759-fce891563ed3" name="Changes" comment="part of gui (aashvi)">
-      <change afterPath="$PROJECT_DIR$/Movies-Store/static/img/avatar.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Movies-Store/static/img/dark.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Movies-Store/static/img/inception.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Movies-Store/static/img/titanic.jpg" afterDir="false" />
+    <list default="true" id="09a369c4-d62f-4c40-b759-fce891563ed3" name="Changes" comment="fixes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Movies-Store/static/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Movies-Store/static/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/home/templates/home/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/home/templates/home/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/movies/templates/movies/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/movies/templates/movies/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/movies/templates/movies/show.html" beforeDir="false" afterPath="$PROJECT_DIR$/movies/templates/movies/show.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -239,7 +235,7 @@
       <workItem from="1738895027145" duration="1659000" />
       <workItem from="1738963917197" duration="928000" />
       <workItem from="1739306244887" duration="1041000" />
-      <workItem from="1739656863224" duration="33000" />
+      <workItem from="1739656863224" duration="600000" />
     </task>
     <task id="LOCAL-00001" summary="cart and orders and admin review management">
       <option name="closed" value="true" />
@@ -289,7 +285,23 @@
       <option name="project" value="LOCAL" />
       <updated>1739639475358</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="jess home page work">
+      <option name="closed" value="true" />
+      <created>1739656912798</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1739656912798</updated>
+    </task>
+    <task id="LOCAL-00008" summary="fixes">
+      <option name="closed" value="true" />
+      <created>1739657068465</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1739657068465</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -300,11 +312,12 @@
       <path value="$PROJECT_DIR$/DjangoProject" />
     </ignored-roots>
     <MESSAGE value="cart and orders and admin review management" />
-    <MESSAGE value="fixes" />
     <MESSAGE value="users fixes" />
     <MESSAGE value="aashna's changes (orders)" />
     <MESSAGE value="part of gui (aashvi)" />
-    <option name="LAST_COMMIT_MESSAGE" value="part of gui (aashvi)" />
+    <MESSAGE value="jess home page work" />
+    <MESSAGE value="fixes" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
