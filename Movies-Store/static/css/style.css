@@ -1,5 +1,5 @@
 .bg-index{
-  background: url("/static/img/background.jpg") no-repeat fixed;
+  background: url("static/img/background.jpg") no-repeat fixed;
   background-size: 100% auto;
 }
 
@@ -74,3 +74,18 @@
     font-size: 12px;
   }
 }
+ .custom-header {
+    font-size: 3rem !important;
+    font-family: 'Arial', serif !important;
+  }
+
+  .custom-selection-header {
+    color: #666 !important;
+    margin-top: 40px !important;
+  }
+
+  .img-custom {
+    width: 80% !important;
+    margin: 0 auto !important;
+    display: block !important;
+  }
